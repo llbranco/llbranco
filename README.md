@@ -25,6 +25,9 @@ mas chegarei lá.
 **Dev Tool**
 
 ![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black)
+[![Sublime](https://img.shields.io/badge/Sublime-Text_Editor)](https://img.shields.io/badge/Sublime%20-%20Text%20Editor
+)
+
 
 <br/>
 
@@ -49,6 +52,7 @@ mas chegarei lá.
 
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)
 
+![Steamdeck](https://img.shields.io/badge/Steam%20Deck-1A9FFF?style=flat&logo=steamdeck&logoColor=white)
 
 ![Playstation 4](https://img.shields.io/badge/PS4_PPLGPwned-003791?style=for-the-badge&logo=playstation&logoColor=white)
 
