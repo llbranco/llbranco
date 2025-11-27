@@ -12,7 +12,7 @@ mas chegarei lá.
 ## About me
 
 - 🤔 Exploring new ways to run PPPwn.
-- 😄 I luv play ARK SE.
+- 😄 I loved playing Ark SE before Aquatica / I tolerate Ark SA because it's less bad than Ark SE.
 - 🌱 Still Learning sh.
 
 ## Once you stop LEARNING you start dying -Albert Einstein
