@@ -62,7 +62,7 @@ mas chegarei lá.
 
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
 
-![POP_OS](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)
+![CachyOS](https://img.shields.io/badge/CachyOS-90E59A?style=for-the-badge)
 
 <!--
 https://dev.to/envoy_/150-badges-for-github-pnk
