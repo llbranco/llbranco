@@ -28,6 +28,17 @@ mas chegarei lá.
 [![Sublime](https://img.shields.io/badge/Sublime-Text_Editor)](https://img.shields.io/badge/Sublime%20-%20Text%20Editor
 )
 
+## Future?
+
+Due to Microsoft/Copilot's invasive policies, I'm seriously thinking about migrating all my projects to another platform and deleting everything from here.
+
+I don't want to be part of this.
+
+I've always hated the copilot and I hate that it's pushed "down the throat" without options to turn it off completely.
+
+I stopped using Windows/Copilot in my personal environment (I never used Edge, with the exception of using it temporarily to download another browser) because of these anti-consumer attitudes;
+
+and even though my projects are small and little accessed, I'm thinking about leaving here because I don't want to push on you what I'm denying to myself. Hope you understand.
 
 <br/>
 
