@@ -45,6 +45,14 @@ I am completely against this type of attitude, I am completely against those who
 
 One of the few things you can choose is your operating system, and in the case of Linux, how it behaves. And even that is being taken away from us.
 
+.
+
+I fully support operating systems (or fw, distros) that haven't implemented AGE VERIFICATION it, and especially those that **NEVER WILL**.
+
+to see the Heroes A.K.A. [Operating Systems Not Implementing Age Verification, click here](https://github.com/BryanLunduke/DoesItAgeVerify)
+
+.
+
 and even though my projects are small and little accessed, I'm thinking about leaving here because I don't want to push on you what I'm denying to myself. Hope you understand.
 
 
